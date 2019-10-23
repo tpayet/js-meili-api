@@ -1,7 +1,5 @@
 # meili-api
 
-> A js library to wrap the meili api
-
 [![Build Status](https://travis-ci.org/qdequele/meili-api.svg?branch=master)](https://travis-ci.org/qdequele/meili-api)
 [![NPM version](https://img.shields.io/npm/v/@meilisearch/meili-api.svg)](https://www.npmjs.com/package/@meilisearch/meili-api)
 ![Downloads](https://img.shields.io/npm/dm/@meilisearch/meili-api.svg)
